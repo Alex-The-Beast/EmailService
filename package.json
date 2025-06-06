@@ -1,0 +1,17 @@
+
+{
+  "name": "emailservice",
+  "version": "1.0.0",
+  "description": "A resilient email sending service with retry, fallback, idempotency, and rate limiting.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["email", "service", "retry", "fallback", "rate-limiting"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
