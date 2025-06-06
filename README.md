@@ -44,7 +44,7 @@ A robust, production-ready email sending service built in JavaScript/Node.js wit
 ### Quick Start
 ```bash
 # Clone the repository
-git clone <https://github.com/Alex-The-Beast/EmailService>
+git clone <https://github.com/Alex-The-Beast/EmailService.git>
 cd email-service
 
 # Install dependencies
