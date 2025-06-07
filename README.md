@@ -2,6 +2,13 @@
 
 A robust, production-ready email sending service built in JavaScript/Node.js with comprehensive failure handling, retry mechanisms, and monitoring capabilities.
 
+
+## 🚀 Deployed API
+
+You can access the deployed API here:  
+👉 [Live API on Render](https://emailservice-wgux.onrender.com/)
+
+
 ## 🚀 Features
 
 ### Core Requirements ✅
