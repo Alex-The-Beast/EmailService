@@ -51,7 +51,7 @@ You can access the deployed API here:
 ### Quick Start
 ```bash
 # Clone the repository
-git clone <https://github.com/Alex-The-Beast/EmailService>
+git clone <https://github.com/Alex-The-Beast/EmailService.git>
 cd email-service
 
 # Install dependencies
